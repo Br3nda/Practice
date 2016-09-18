@@ -12,12 +12,11 @@
         "url": "git+https://github.com/Dennis-Mayk/Practice.git"
     },
     "keywords": [
-    "ghost",
-    "theme",
-    "blog",
-    "timeline"
-  ],
+        "ghost",
+        "theme",
+        "blog",
+        "timeline"
+    ],
     "author": "Dennis \"Mayk",
     "license": "MIT",
-},
 }
