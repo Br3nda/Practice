@@ -14,3 +14,18 @@
 </header>
 
 {{> loop}}
+
+
+/*
+===============================================================================
+  Subbscribe
+===============================================================================
+*/
+$('body').subbscribe({
+    list: "MailChimp",
+    url: "//1bytebeta.us9.list-manage.com/subscribe/post?u=1c261e60d8259c0c636801494&id=7fa99bf359",
+    name: "<a href='{{twitter_url}}' target='_blank'>{{twitter}}</a>",
+    thumbnail: "{{author.image}}",
+    color: "#F2545B",
+    delay: 3,
+});
