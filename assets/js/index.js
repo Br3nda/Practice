@@ -6,8 +6,8 @@
 $('body').subbscribe({
     list: "MailChimp",
     url: "//1bytebeta.us9.list-manage.com/subscribe/post?u=1c261e60d8259c0c636801494&id=7fa99bf359",
-    name: "<a href='https://twitter.com/shlominissan' target='_blank'>@shlominissan</a>",
-    thumbnail: "https://s3-ap-southeast-2.amazonaws.com/subbscribe/img/shlomi.jpg",
+    name: "<a href='https://twitter.com/br3nda' target='_blank'>@br3nda</a>",
+    thumbnail: "img/twitter.jpg",
     color: "#F2545B",
     delay: 3,
 });
