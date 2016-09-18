@@ -1,6 +1,6 @@
 {
     "name": "Practice",
-    "version": "1.3",
+    "version": "1.4.0",
     "description": "Most beautiful timeline theme for Ghost",
     "main": "index.js",
     "scripts": {
